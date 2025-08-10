@@ -1,0 +1,5 @@
+vs code
+git bash
+streamlit
+python-docx
+google-generativeai
